@@ -1,0 +1,17 @@
+{
+  "name": "circular-timer",
+  "version": "0.0.1",
+  "source": "circular-timer.js",
+  "main": "dist/circular-timer.main.js",
+  "files": ["dist"],
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "lit": "^2.1.1"
+  },
+  "devDependencies": {
+    "vite": "^2.7.12"
+  }
+}
